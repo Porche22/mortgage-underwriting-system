@@ -1,0 +1,9 @@
+google-generativeai
+IPython
+ipywidgets
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain_text_splitters
+langgraph
